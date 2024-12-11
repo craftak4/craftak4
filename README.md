@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @craftak4
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on game projects
-- 😄 Pronouns: I am good at Lua
-- ⚡ Fun fact: I have discord lol
+Hi, I am @craftak4. C#, Html, Css, Lua script, those are my languages. 😄 I am Czech programmer. 🇨🇿 I create apps, websites and games with Godot 🎮, Asp.NET 🌐 and .NET Maui 📱. 
 
-<!---
-craftak4/craftak4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you would like to ask about something, send me a message on discord! ( `craftak4` )
